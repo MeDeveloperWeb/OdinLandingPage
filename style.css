@@ -50,7 +50,7 @@ header ul {
     gap: 12px
 }
 
-a {
+header ul a {
     text-decoration: none;
     color: rgb(78, 78, 78);
 }
@@ -206,11 +206,11 @@ blockquote cite:before {
     margin: 16px;
 }
 
-.credits {
+.recipe-link, .credits {
     margin: 72px;
     align-self: flex-start;
 }
 
-.credits a {
+footer a {
     color: white;
 }
