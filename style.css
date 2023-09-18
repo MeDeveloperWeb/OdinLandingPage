@@ -207,7 +207,7 @@ blockquote cite:before {
 }
 
 .recipe-link, .credits {
-    margin: 72px;
+    margin: 72px 16px;
     align-self: flex-start;
 }
 
